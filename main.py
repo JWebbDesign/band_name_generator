@@ -10,4 +10,3 @@ pet_name = input("What is the name of your pet? ")
 # Combine the name of their city and pet and show them their band name.
 band_name = city + " " + pet_name
 print("Your bands name is: " + band_name + "\n")
-# Make sure the input cursor shows on a new line:
